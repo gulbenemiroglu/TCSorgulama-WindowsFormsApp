@@ -1,0 +1,11 @@
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\bin\Debug\WinFormWebService.exe.config
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\bin\Debug\WinFormWebService.exe
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\bin\Debug\WinFormWebService.pdb
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.csproj.AssemblyReference.cache
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.frm_vatandasSorgu.resources
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.Properties.Resources.resources
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.csproj.GenerateResource.cache
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.csproj.CoreCompileInputs.cache
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.exe
+C:\Users\gulbe\source\repos\WinFormWebService\WinFormWebService\obj\Debug\WinFormWebService.pdb
